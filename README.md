@@ -1,7 +1,11 @@
 <img src="https://avatars.githubusercontent.com/u/213369098?s=200&v=4" width="100"/> <br/>
 # 🎯 프로젝트 개요
 ### "교통사고 해결의 새로운 길, DOROLAW가 여러분과 함께합니다."
-AI 기반 교통사고 과실 비율 분석 및 변호사 상담 매칭 플랫폼
+<strong>AI 기반 교통사고 과실 비율 분석 및 변호사 상담 매칭 플랫폼</strong>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/78db5c2d-a840-49b9-8ea3-a3a5785af26d" controls></video>
+</div>
+<br/>
 
 ### 📆 프로젝트 정보
 삼성 청년 SW 아카데미 12기 특화 프로젝트 A501 <br/>
@@ -33,11 +37,8 @@ DOROLAW는 AI 모델을 활용하여 교통사고 영상을 약 20초 간 분석
 <br/>
 
 # 🚀 주요 기능
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/78db5c2d-a840-49b9-8ea3-a3a5785af26d" controls></video>
-</div>
 
-### 1. AI 기반 교통사고 과실 비율 분석 서비스
+### 1. 교통사고 과실 비율 분석 서비스
 * 블랙박스 영상 업로드 시 공개/비공개 여부를 설정할 수 있습니다.
 * 약 20초 후 분석 완료 알림과 함께 과실 비율 분석 결과 확인이 가능합니다.
 
